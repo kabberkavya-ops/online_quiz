@@ -1,11 +1,9 @@
 # 🎯 Online Quiz System
 
-## 📌 Project Description  
-The Online Quiz System is a web-based application designed to conduct quizzes interactively. It allows users to answer multiple-choice questions and receive instant results based on their performance.  
+## 📌 Project Overview  
+The Online Quiz System is a web-based application developed to conduct quizzes in an interactive and efficient manner. It allows users to answer multiple-choice questions (MCQs) and receive instant results based on their performance. This project is simple, user-friendly, and useful for educational and training purposes.
 
-This project is simple, user-friendly, and useful for educational and training purposes.
-
-## 🚀 Features  
+## 🚀 Key Features  
 - User-friendly quiz interface  
 - Multiple-choice questions (MCQs)  
 - Instant score calculation  
@@ -18,25 +16,25 @@ This project is simple, user-friendly, and useful for educational and training p
 - JavaScript  
 - (Optional) MySQL  
 
-## ⚙️ How It Works  
-1. User opens the quiz application.  
-2. Questions with multiple options are displayed.  
-3. User selects answers for each question.  
-4. After clicking submit, the system evaluates responses.  
-5. Final score is displayed instantly.  
+## ⚙️ Working Process  
+1. User opens the quiz application  
+2. Questions with multiple options are displayed  
+3. User selects answers  
+4. Clicks submit button  
+5. System evaluates answers and shows final score instantly  
 
 ## 📁 Project Structure  
-OnlineQuizSystem/
-│
+OnlineQuizSystem/  
+│  
 ├── index.html      # Main quiz interface  
-├── style.css       # Styling for the quiz  
-├── script.js       # Quiz logic and scoring  
+├── style.css       # Styling of the application  
+├── script.js       # Quiz logic and scoring system  
 └── README.md       # Project documentation  
 
-## 🔮 Future Improvements  
+## 🔮 Future Enhancements  
 - User login and registration system  
-- Timer for quiz completion  
-- Database integration to store results  
+- Timer-based quiz  
+- Database integration  
 - Admin panel to manage questions  
 - Leaderboard for top scores  
 
