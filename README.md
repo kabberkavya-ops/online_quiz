@@ -46,7 +46,7 @@ OnlineQuizSystem/
 
 ## 👩‍💻 Author  
 Kavya Kabber  
-B.Sc Computer Science Student  
+
 
 LinkedIn:  
 https://www.linkedin.com/in/kavya-kabber-b4a758361/
